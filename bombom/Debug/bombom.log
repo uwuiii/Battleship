@@ -1,0 +1,3 @@
+﻿  bombom.cpp
+D:\projects\ITStep\bombom\bombom\bombom.cpp(165): warning C4715: selectShip: значение возвращается не при всех путях выполнения
+  bombom.vcxproj -> D:\projects\ITStep\bombom\Debug\bombom.exe
